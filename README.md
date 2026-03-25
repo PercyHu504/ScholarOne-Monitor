@@ -4,6 +4,10 @@ ScholarOne 论文状态监控 Skill，自动检查投稿状态并通过微信推
 
 ## 安装方法
 
+### 如何推送到微信？
+
+配置好Qclaw后，与“微信ClawBot”聊天，请输出accountId和OpenID。
+
 ### 方法 1: 本地安装（复制到./skills文件夹下）
 
 ```bash
