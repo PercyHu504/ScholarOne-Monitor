@@ -1,0 +1,20 @@
+{
+  "scholarOneUrl": "https://mc.manuscriptcentral.com/YOUR_JOURNAL",
+  "credentials": {
+    "username": "YOUR_USERNAME",
+    "password": "YOUR_PASSWORD"
+  },
+  "monitoredManuscripts": [
+    {
+      "id": "MANUSCRIPT_ID",
+      "title": "Your Paper Title",
+      "shortTitle": "ShortTitle"
+    }
+  ],
+  "checkInterval": "6h",
+  "notification": {
+    "channel": "weixin",
+    "accountId": "YOUR_WEIXIN_ACCOUNT_ID",
+    "to": "YOUR_WEIXIN_OPENID@im.wechat"
+  }
+}
