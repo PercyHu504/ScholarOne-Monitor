@@ -4,11 +4,11 @@ ScholarOne 论文状态监控 Skill，自动检查投稿状态并通过微信推
 
 ## 安装方法
 
-### 方法 1: 从 ClawdHub 安装（推荐）
+### 方法 1: 本地安装（复制到./skills文件夹下）
 
 ```bash
 # 在 OpenClaw 中运行：
-安装 s1-monitor skill
+安装skill，位置 ./skills/s1-monitor
 ```
 
 ### 方法 2: 手动安装
